@@ -1,0 +1,20 @@
+
+  .search-btn{
+    background-color: #fe424d ;
+    color:white;
+    border-radius: 25px;
+    padding: 0 15px 0 15px;
+  }
+  .search-btn:hover{
+    background-color: #fe424d ;
+    color:white;
+  }
+  .search-btn i{
+    display: inline;
+    margin-right:9px ;
+  }
+  .search-input{
+    border-radius: 25px;
+    padding: 5px 40px 5px 40px;
+    font-size: 15px;
+  }
